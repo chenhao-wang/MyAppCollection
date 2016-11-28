@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">我的作品应用集</string>
+
+    <string name="title_name">纳米学位应用</string>
+
+    <string name="app_movie">热门电影</string>
+
+    <string name="app_stock">股票雄鹰</string>
+
+    <string name="app_reader">XYZ阅读器</string>
+
+    <string name="app_news">最新闻</string>
+
+    <string name="app_final">毕业设计</string>
+
+    <string name="start_movie_app">启动应用： 热门电影</string>
+
+    <string name="start_stock_app">启动应用： 股票雄鹰</string>
+
+    <string name="start_reader_app">启动应用： XYZ阅读器</string>
+
+    <string name="start_news_app">启动应用： 最新闻</string>
+
+    <string name="start_final_app">启动应用： 毕业设计</string>
+</resources>
